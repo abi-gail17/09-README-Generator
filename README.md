@@ -14,7 +14,7 @@
    - [License](#license)
    - [Contact Me](#contact-me)
 
-  ##Installation
+  ## Installation
 
   How to install: 
   1. clone this git repository to your machine with "git clone [link to repository]" 
