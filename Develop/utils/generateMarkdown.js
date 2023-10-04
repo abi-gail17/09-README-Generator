@@ -63,13 +63,56 @@ function renderLicenseSection(license) {
     return 'Licensed by the Mozilla Public License 2.0';
   }
   else if (license === 'GNU GPL v3') {
-    return 'Licensed by the GNU GPL v3 License';
+    return 'Licensed by the GNU General Public License v3.0';
   } 
 }
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  return `# ${data.title}
+  return `
+  # ${data.title}
+
+  ## Description
+
+  ${data.description}
+
+  ## Table of Contents
+   - [Description](#description)
+   - [Installation](#installation)
+   - [Usage](#usage)
+   - [License](#license)
+   - [Contributions](#contributions)
+   - [License](#license)
+   - [Contact Me](#contact-me)
+
+  ##Installation
+
+  ${data.installation}
+
+  ## Usage
+
+  ${data.usage}
+
+  ## Credits
+
+  ${data.credits}
+
+  ## Contributions
+
+  ${data.contributions}
+
+  ## License
+
+  ${renderLicenseBadge(data.license)}
+  ${renderLicenseSection(data.license)}
+  ${renderLicenseLink(data.license)}
+
+  ## Contact Me
+  Have any Questions? Contact me at:
+
+  [My GitHub](https://github.com/${data.githubUsername})
+
+  or email me at ${data.email}
 
 `;
 }
