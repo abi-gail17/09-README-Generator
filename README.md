@@ -40,7 +40,7 @@
 
   ## License
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)] Licensed by the MIT License: https://opensource.org/licenses/MIT
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) Licensed by the MIT License: https://opensource.org/licenses/MIT
 
   ## Contact Me
   Have any Questions? Contact me at:
