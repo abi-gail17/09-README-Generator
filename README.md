@@ -28,8 +28,10 @@
 
   ## Credits
 
-  Starter code was provided by The UofT Coding Bootcamp.  
+  Starter code was provided by The UofT Coding Bootcamp. 
+
   Inquirer Package: https://www.npmjs.com/package/inquirer/v/8.2.4 
+  
   Professional README Guide:  https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
   ## Contributions
