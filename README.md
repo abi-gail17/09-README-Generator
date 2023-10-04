@@ -25,6 +25,12 @@
   ## Usage
 
   Run "node index.js" in your terminal, answer the prompted questions, and if successful, the console will log "Your README file was successfully generated!" and your README file will be created.
+  ![Alt text](Develop/assets/README1.png)
+  ![Alt text](Develop/assets/README2.png)
+  ![Alt text](Develop/assets/README4.png)
+  ![Alt text](Develop/assets/README3.png)
+
+  See it in action in [THIS VIDEO](https://drive.google.com/file/d/1C0Ag7UjppI_2hY5J62GRcTyRB0s6TYdb/view)
 
   ## Credits
 
