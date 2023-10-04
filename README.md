@@ -31,7 +31,7 @@
   Starter code was provided by The UofT Coding Bootcamp. 
 
   Inquirer Package: https://www.npmjs.com/package/inquirer/v/8.2.4 
-  
+
   Professional README Guide:  https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
   ## Contributions
@@ -40,7 +40,7 @@
 
   ## License
 
-  [License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) Licensed by the MIT License: https://opensource.org/licenses/MIT
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)] Licensed by the MIT License: https://opensource.org/licenses/MIT
 
   ## Contact Me
   Have any Questions? Contact me at:
